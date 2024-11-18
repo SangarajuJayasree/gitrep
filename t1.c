@@ -1,4 +1,5 @@
-void main()
+double add()
 {
-  add()
+  a=a+b;
 }
+
